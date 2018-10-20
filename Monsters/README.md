@@ -53,13 +53,13 @@ Automated tests have not yet been added for this project.
 ## Screenshots
 
 <figure>
-  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/main_menu.png" alt="image"/>
   <figcaption><em>The main menu</em></figcaption>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/main_menu.png" alt="image"/>
 </figure>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/encounter.png" alt="image"/>
   <figcaption><em>Encountering a monster</em><br></figcaption>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/encounter.png" alt="image"/>
 </figure>
 
 <figure>
