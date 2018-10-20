@@ -52,36 +52,35 @@ Automated tests have not yet been added for this project.
 
 ## Screenshots
 
-![image][img1]
+<figure>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/main_menu.png" alt="image"/>
+  <figcaption><em>The main menu</em><br /><br /></figcaption>
+</figure>
 
-*The main menu*
+<figure>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/encounter.png" alt="image"/>
+  <figcaption><em>Encountering a monster</em><br /><br /></figcaption>
+</figure>
 
-![image][img2]
+<figure>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/catch.png" alt="image"/>
+  <figcaption><em>Catching a monster</em><br /><br /></figcaption>
+</figure>
 
-*Encountering a monster*
+<figure>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/battle_03.png" alt="image"/>
+  <figcaption><em>Battling an opponent</em><br /><br /></figcaption>
+</figure>
 
-![image][img3]
+<figure>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/save_game.png" alt="image"/>
+  <figcaption><em>Saving the game</em><br /><br /></figcaption>
+</figure>
 
-*Catching a monster*
-
-![image][img4]
-
-*Battling an opponent*
-
-![image][img5]
-
-*Saving the game*
-
-![image][img6]
-
-*Loading the saved game*
-
-[img1]: https://github.com/ngeary/monsters-game/tree/master/Monsters/img/screenshots/main_menu.png
-[img2]: https://github.com/ngeary/monsters-game/tree/master/Monsters/img/screenshots/encounter.png
-[img3]: https://github.com/ngeary/monsters-game/tree/master/Monsters/img/screenshots/catch.png
-[img4]: https://github.com/ngeary/monsters-game/tree/master/Monsters/img/screenshots/battle_03.png
-[img5]: https://github.com/ngeary/monsters-game/tree/master/Monsters/img/screenshots/save_game.png
-[img6]: https://github.com/ngeary/monsters-game/tree/master/Monsters/img/screenshots/load_game.png
+<figure>
+  <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/load_game.png" alt="image"/>
+  <figcaption><em>Loading the saved game</em></figcaption>
+</figure>
 
 ## Author
 
