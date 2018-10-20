@@ -54,27 +54,27 @@ Automated tests have not yet been added for this project.
 
 <figure>
   <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/main_menu.png" alt="image"/>
-  <figcaption><em>The main menu</em><br /><br /></figcaption>
+  <figcaption><em>The main menu</em></figcaption>
 </figure>
 
 <figure>
   <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/encounter.png" alt="image"/>
-  <figcaption><em>Encountering a monster</em><br /><br /></figcaption>
+  <figcaption><em>Encountering a monster</em><br></figcaption>
 </figure>
 
 <figure>
   <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/catch.png" alt="image"/>
-  <figcaption><em>Catching a monster</em><br /><br /></figcaption>
+  <figcaption><em>Catching a monster</em><br><br></figcaption>
 </figure>
 
 <figure>
   <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/battle_03.png" alt="image"/>
-  <figcaption><em>Battling an opponent</em><br /><br /></figcaption>
+  <figcaption><em>Battling an opponent</em><br><br><br></figcaption>
 </figure>
 
 <figure>
   <img src="https://raw.githubusercontent.com/ngeary/monsters-game/master/Monsters/img/screenshots/save_game.png" alt="image"/>
-  <figcaption><em>Saving the game</em><br /><br /></figcaption>
+  <figcaption><em>Saving the game</em><br><br><br><br></figcaption>
 </figure>
 
 <figure>
