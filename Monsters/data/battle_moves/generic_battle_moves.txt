@@ -1,0 +1,6 @@
+ID|MOVE NAME|HEAL POWER|ATTACK POWER|HIT THRESHOLD|SPEED MODIFIER
+N|Normal Attack|0|50|20|0
+H|Heavy Attack|0|90|36|0
+L|Light Attack|0|25|10|0
+Q|Quick Attack|0|27|22|2
+|||||||||||||||||||||Don't use this one yet|M|Meditate|50|0|20|0

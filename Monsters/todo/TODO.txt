@@ -1,0 +1,62 @@
+Game Fixes/Enhancements
+	Finish battle mechanics
+		Add moves
+			Database full of moves or generic moves?
+	Let player re-order monster list
+	Monsters gain experience/levels
+	Score?
+	Let players create MonsterTypes and BasicOpponents
+	Respawning of opponents
+		Stay in current state if you lost?
+		Respawn if you won?
+		Try to eliminate all opponents?
+		Don't select opponent for battle if eliminated?
+	
+Programming Improvements
+	Clean up code
+		Make it as modular as possible
+		Make sure all methods are in logical classes
+		Minimize repetition
+		Anything that is loaded/saved should mirror BattleMove class
+	I think I should be implementing interfaces (raw-string-able? SQL-able?)
+	Add comments
+	Is HashMap the right Collection for classes where the primary key is an integer?
+
+Programming Challenges
+	Integrate with SQL databases
+		Make choice between flat file / SQL tables
+		Build support for SQL tables
+		Build SQL tables
+	Turn into a web app?
+		Probably not-- just make available on Java Web Start
+	Implement a GUI
+
+	
+	
+	
+Need generic load/store methods in each "object" class (monster type, opponent, maybe game)
+
+	public static MyClass loadMyClassFromDatabase(PrimaryKey pk) {
+		return myClass;
+	}
+	
+	public static void storeMyClassInDatabase(MyClass mc) {
+	}
+
+	public static MonsterType getMonsterTypeFromDatabase(int monsterTypeID) {
+		DatabaseSettings dbs = Monsters.getDatabaseSettings();
+		
+		if (dbs.getFormat().equals("flat file")) {
+			return getMonsterTypeFromFlatFile(dbs.getMonsterTypeFilename(), monsterTypeID);
+		} else if (dbs.getFormat().equals("SQL table")) {
+			return getMonsterTypeFromSQLTable(dbs.getMonsterTypeTableName(), monsterTypeID);
+		}
+	}
+	
+The format of the database needs to be completely abstracted from Monsters, Encounter, Battle, etc.
+Format of the database should be stored in a new class (say, DatabaseSettings) similar to GameSettings.
+Move file names from GameSettings to DatabaseSettings.
+
+Level-3 looks like negative 3
+Player wants to see her name as a trainer
+Monsters need to gain experience and level up

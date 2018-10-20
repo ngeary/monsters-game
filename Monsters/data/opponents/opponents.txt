@@ -1,0 +1,9 @@
+ID|NAME|MONEY|MONSTERTYPE1|LEVEL1|STATBOOST1|NICKNAME1|MONSTERTYPE2|LEVEL2|STATBOOST2|NICKNAME2|...
+1|Adelaide|25|1|3|0|""
+2|Beelzebub|300|23|4|0|""|16|5|0|""|20|4|0|""|8|3|1|""|3|5|1|""
+3|Carmen|65|13|4|2|""
+4|Diego|70|12|2|2|""|12|3|2|""
+5|Ebenezer|75|6|5|1|""
+6|Francine|40|19|1|0|""|24|1|0|""
+7|Gertrude|75|22|5|2|""
+8|Hannibal Lecter|250|97|10|2|""

@@ -1,0 +1,13 @@
+ID|MONSTERTYPENAME|MAXHP|ATTACK|DEFENSE|SPEED|MAXDIFFICULTY
+1|Archakoo|15|9|21|5|15
+2|Balldozer|8|8|11|12|5
+3|Crabshoot|17|20|17|15|22
+4|Dolamite|15|22|8|6|16
+5|Eggamander|25|5|20|4|16
+6|Flocktapuss|13|23|9|21|23
+7|Gimmerydo|14|17|12|14|16
+8|Hornacopter|12|24|8|22|23
+9|Iguamma|9|14|19|13|14
+10|Junksnort|17|26|17|21|28
+11|Kornslock|16|28|7|16|24
+12|L|11|9|7|21|7
